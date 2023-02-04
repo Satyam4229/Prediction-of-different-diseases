@@ -1,4 +1,4 @@
-# YBI Project 1 - Prediction of cement compressive strength
+# YBI Project 2 - Prediction of different diseases
 YBI is a company which provide a good quality of resources and programs to enhance the skills of a programmer who eager to learn some set of skill. This platform is very good in term of cost, lectures, material and aslo the projects.
 
 Prediction of the different diseases with the help of different symptoms express the diseases in the real time. In the dataset, there are 132+ different symptoms on which the model is trained to give the best result of the disease.
